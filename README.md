@@ -23,11 +23,11 @@
 
 <p align="center">
   <a href="https://github.com/bandayfarhan/SlashMark-AI-Internship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bandayfarhan&repo=SlashMark-AI-Internship&theme=radical&show_icons=true" alt="SlashMark-AI-Internship" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bandayfarhan&repo=SlashMark-AI-Internship&theme=radical" alt="SlashMark-AI-Internship" />
   </a>
-  <!-- Replace 'Your-Repo-Name-Here' with another repository you want to highlight -->
-  <a href="https://github.com/bandayfarhan/Your-Repo-Name-Here">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bandayfarhan&repo=Your-Repo-Name-Here&theme=radical&show_icons=true" alt="Second Repo" />
+  <!-- Ensure the repository name below exactly matches a public repo on your account -->
+  <a href="https://github.com/bandayfarhan/Weather-for-Beerwah">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bandayfarhan&repo=Weather-for-Beerwah&theme=radical" alt="Second Repo" />
   </a>
 </p>
 
@@ -46,8 +46,8 @@
 ### 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bandayfarhan&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bandayfarhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bandayfarhan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bandayfarhan&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 **📈 Contribution Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bandayfarhan&theme=react-dark&bg_color=1F222E&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bandayfarhan&theme=radical&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
